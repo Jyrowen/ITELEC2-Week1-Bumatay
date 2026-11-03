@@ -1,7 +1,7 @@
 # ITELEC2 Week 1 Activity
 
-Name: [Your Full Name]
-Section: [Your Section]
+Name: Jay-Roween B. Bumatay
+Section: 3.5BSIT
 
 ## Programs
 
